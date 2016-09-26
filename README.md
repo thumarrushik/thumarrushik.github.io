@@ -1,3 +1,3 @@
-# thumarrushik.github.io
+# Rushik Thumar
 
 Graduate Student in computer science
